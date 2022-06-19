@@ -59,6 +59,7 @@ h4{
 }
 
 .Career{
+    margin-top: -180px;
     margin-left: 80px;
     margin-right: 50px;
     text-align: justify;
@@ -107,15 +108,16 @@ h4{
 
 #joniur-web-dev{
     border-left:  7px solid tomato;
-    background-image: linear-gradient(blue,cyan);
+    background-image: linear-gradient(rgb(97, 97, 218),cyan);
     border-image-slice: 1;
     width: 600px;
     
 }
 
+
 #full-satck-dev{
     border-left: 7px solid blue;
-    background-image: linear-gradient(rgb(255, 0, 140),tomato);
+    background-image: linear-gradient(rgb(216, 97, 163),rgb(135, 225, 236));
     border-image-slice: 1;
     width: 600px;
     
@@ -123,7 +125,7 @@ h4{
 
 #deputy_manager{
     border-left: 7px solid rgb(166, 255, 0);
-    background-image: linear-gradient(rgb(50, 156, 29),tomato);
+    background-image: linear-gradient(rgb(112, 209, 93),rgb(167, 224, 238));
     border-image-slice: 1;
     width: 600px;
     
