@@ -1,0 +1,133 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h3{
+    font-size: 30px;
+}
+h4{
+    font-size: 20px;
+}
+
+.paramount{
+    font-size: 25px;
+}
+
+.flexible-container{
+    /*margin-bottom: 100px;*/
+    display: flex;
+}
+
+.orange-color{
+    color: orange;
+}
+
+.white-color{
+    color: white;
+}
+
+.half-width{
+    padding: 5%;
+    width: 50%;
+}
+
+.half-width p{
+    text-align: justify;
+}
+.half-width img{
+    width: 100%;
+}
+
+.link-button{
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    background-image: linear-gradient(orange,tomato);
+}
+
+.top-banner{
+    background-image: url(images/top-banner.png);
+    padding: 0;
+    background-repeat: no-repeat;
+}
+
+.Career{
+    margin-left: 80px;
+    margin-right: 50px;
+    text-align: justify;
+}
+.hire{
+    margin-left: 80px;
+}
+
+.my-dream{
+   background-image: url(images/dream-bg.png);
+   padding: 0;
+   background-position: right;
+   background-repeat: no-repeat;
+}
+
+.my-dream p{
+    padding-right: 58px;
+    text-align: justify;
+}
+
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+
+.exp-text{
+    margin-left: 100px;
+}
+
+.experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px grey;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: justify;
+}
+
+
+.experience-item p{
+    text-align: justify;
+}
+
+#joniur-web-dev{
+    border-left:  7px solid tomato;
+    background-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+    width: 600px;
+    
+}
+
+#full-satck-dev{
+    border-left: 7px solid blue;
+    background-image: linear-gradient(rgb(255, 0, 140),tomato);
+    border-image-slice: 1;
+    width: 600px;
+    
+}
+
+#deputy_manager{
+    border-left: 7px solid rgb(166, 255, 0);
+    background-image: linear-gradient(rgb(50, 156, 29),tomato);
+    border-image-slice: 1;
+    width: 600px;
+    
+}
+footer p{
+    text-align: center;
+}
